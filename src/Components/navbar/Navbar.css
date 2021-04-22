@@ -1,0 +1,59 @@
+.Navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 167px;
+    background: #FFFFFF;
+}
+
+.Logo {
+    width: 128px;
+}
+.SocialMediaContainers {
+    width: 332.96px;
+    height: 39.08px;
+   
+}
+
+.Connectwallet {
+    text-align: center;
+    width: 167px;
+    height: 32px;
+    border: 2px solid black;
+    border-radius: 16px;
+
+}
+
+.Nav-bar {
+    height: 85.98px;
+}
+
+.Nav-Links {
+    display: flex;
+
+    flex-direction: row;
+
+    list-style-type: none;
+}
+
+.Ellipse2 {
+    /*Need to work on search Icon asap*/
+    /*display: flex;
+    flex-direction: row;*/
+
+    border: 2px solid #141471;
+    width: 90.67px;
+    height: 85.98px;
+    background: #141471;
+    border-radius: 50%;
+}
+
+/*.Ellipse1 {
+    width: 85.98px;
+    height: 85.98px;
+    
+
+    background: #FFFFFF;
+    border: 2px solid #8A8A8A;
+    box-sizing: border-box;
+}*/
