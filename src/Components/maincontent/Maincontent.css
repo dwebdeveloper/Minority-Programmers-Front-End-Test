@@ -1,0 +1,4 @@
+.MainContent {
+    height: max-content;
+    background-image: linear-gradient(to right, #FF00B8, #FF655B, #FFC700);
+  }
